@@ -1,0 +1,14 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+nbproject/genfiles.properties
+
+# Java
+*.class
+*.jar
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
